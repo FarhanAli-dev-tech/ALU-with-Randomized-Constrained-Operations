@@ -36,5 +36,4 @@ Produces `dump.vcd`, viewable in GTKWave or a similar tool.
 
 Waveform
 <img width="1047" height="181" alt="image" src="https://github.com/user-attachments/assets/a0efc4ea-0cea-4a05-8905-43f216d91b6e" />
-
-This is a stimulus generator, not a checker. There's no scoreboard or assertion comparing `result` against an expected value, and the randomization seed isn't fixed, so runs aren't reproducible. Both are reasonable next steps if this gets extended toward a proper verification environment.
+ randomization seed isn't fixed, so runs aren't reproducible. Both are reasonable next steps if this gets extended toward a proper verification environment.
