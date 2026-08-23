@@ -35,5 +35,5 @@ vcs -sverilog alu.sv -R
 Produces `dump.vcd`, viewable in GTKWave or a similar tool.
 
 Waveform
-<img width="1047" height="181" alt="image" src="https://github.com/user-attachments/assets/a0efc4ea-0cea-4a05-8905-43f216d91b6e" />
- randomization seed isn't fixed, so runs aren't reproducible. Both are reasonable next steps if this gets extended toward a proper verification environment.
+<img width="1041" height="127" alt="image" src="https://github.com/user-attachments/assets/7c4d636c-1e3e-4dfd-8a23-9a0c893e7b3b" />
+
